@@ -1,4 +1,5 @@
 <?php require 'partials/navbar.php' ?>
+
             <ul class="nav nav-pills nav-stacked">
             <div style="margin-top: 20px;"></div>
               <li role="presentation" class="text-center" style="width:80%; margin:0 auto; background-color:#E6E6E6;"><a href="#" style="text-color:#FFF;">Theme 1 <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></li> <br>

@@ -1,9 +1,12 @@
 <?php require 'partials/navbar.php' ?>
 
-      <div class="container-fluid">  
-       <!--  <ul class="nav navbar-default">
-            <li class="text-center"><h4 style="text-color:#353535;">TEAMS</h4></li>
-        </ul> -->
+      <div class="container-fluid">
+        <nav class="navbar navbar-default text-center">
+          <div class="container-fluid">
+              <h5>ALL TEAMS - Theme_Name</h5>
+          </div>
+        </nav>
+
         <div>
           <div class="row" style="background-color:#30A292; margin-top: 10px; margin-bottom:10px;">
             <div class="col-md-4 text-center">

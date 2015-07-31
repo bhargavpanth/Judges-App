@@ -1,6 +1,12 @@
 <?php require 'partials/navbar.php' ?>
 
         <div class="container-fluid">
+        <nav class="navbar navbar-default text-center">
+          <div class="container-fluid">
+              <h5>Team_Name / Theme_Name</h5>
+          </div>
+        </nav>
+
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default">
                     <div class="panel-heading" role="tab" id="headingOne">
@@ -12,7 +18,7 @@
                     </div>
                     <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                         <div class="panel-body">
-                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+                            Idea-name Idea-name Idea-name Idea-name Idea-name Idea-name Idea-name Idea-name Idea-name 
                         </div>
                     </div>
                 </div>
@@ -26,11 +32,11 @@
                     </div>
                     <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                         <div class="panel-body">
-                            <span>Gururaj</span><br>
-                            <span>Sumit</span><br>
-                            <span>Bhargav</span><br>
-                            <span>Prateek</span><br>
-                            <span>Nishchal</span>
+                            <span>Member</span><br>
+                            <span>Member</span><br>
+                            <span>Member</span><br>
+                            <span>Member</span><br>
+                            <span>Member</span>
                         </div>
                     </div>
                 </div>
