@@ -1,19 +1,9 @@
-<!doctype html>
-<!-- HTML5 Boilerplate -->
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html><!--<![endif]-->
+<!DOCTYPE html>
+<html>
 <head>
-    
-    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <!-- Optional theme -->
-    <!-- <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css"> -->
-    <!-- <FONTS> -->
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,300' rel='stylesheet' type='text/css'>
-    <!-- Latest compiled and minified JavaScript -->
     <link rel="stylesheet" href="css/main.css">
     <title>V-Evaluator</title>
 </head>

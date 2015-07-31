@@ -1,16 +1,19 @@
-<?php require 'partials/navbar.php' ?>        
+<?php require 'partials/navbar.php' ?>
+
       <div class="container-fluid">  
-        <ul class="nav navbar-default">
+       <!--  <ul class="nav navbar-default">
             <li class="text-center"><h4 style="text-color:#353535;">TEAMS</h4></li>
-        </ul>
-        
-        <div>  
-          
+        </ul> -->
+        <div>
           <div class="row" style="background-color:#30A292; margin-top: 10px; margin-bottom:10px;">
-            <div class="col-md-4">
-              <h5 class="text-center">Team Name</h5>
+            <div class="col-md-4 text-center">
+              <div class="btn-group btn-group-justified" role="group" aria-label="...">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-default">Team Name</button>
+                </div>
+              </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 text-center">
               <h5 class="text-center">Team ID</h5>
             </div>
             <div class="col-md-4 text-center">    
@@ -18,11 +21,15 @@
                 <span class="glyphicon glyphicon-search" aria-hidden="true"> Location</span>
               </button>
             </div>
-          </div>
+          </div> <hr>
 
           <div class="row" style="background-color:#30A292; margin-top: 10px; margin-bottom:10px;">
             <div class="col-md-4">
-              <h5 class="text-center">Team Name</h5>
+              <div class="btn-group btn-group-justified" role="group" aria-label="...">
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-default">Team Name</button>
+                </div>
+              </div>
             </div>
             <div class="col-md-4">
               <h5 class="text-center">Team ID</h5>
@@ -32,7 +39,7 @@
                 <span class="glyphicon glyphicon-search" aria-hidden="true"> Location</span>
               </button>
             </div>
-          </div><br>
+          </div> <hr>
 
           <div class="modal fade" role="dialog" aria-labelledby="gridSystemModalLabel"id="myModal">
             <div class="modal-dialog" role="document">

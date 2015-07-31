@@ -1,40 +1,5 @@
-<!doctype html>
-<!-- HTML5 Boilerplate -->
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html><!--<![endif]-->
-<head>
-    
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="img/favicon.png">
-    <title>V-Evaluator | Team Description</title>
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-    <!-- <FONTS> -->
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300' rel='stylesheet' type='text/css'>
-    
-    <!-- Latest compiled and minified JavaScript -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="main.css">
-</head>
-<body class="team-description-body">
-    <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="team-name">
-                <div class="col-md-10 col-sm-10 col-xs-10 text-left">Droiders</div>
-            </div>
-            <ul class="col-md-2 col-sm-2 col-xs-2 text-right">
-                <li class="power_button" style="list-style:none;">
-                    <a href="#"><span><i class="fa fa-power-off"></i></span></a>
-                </li>
-            </ul>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            </div><!-- /.container-fluid -->
-        </nav>
+<?php require 'partials/navbar.php' ?>
+
         <div class="container-fluid">
             <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                 <div class="panel panel-default">
